@@ -20,6 +20,6 @@ The goal of this project is to:
   - `pandas`, `numpy` → Data manipulation
   - `scikit-learn` → Clustering (KMeans), PCA, TF-IDF, Scaling
   - `matplotlib`, `seaborn`, `plotly` → Visualization
-  - `umap-learn` (optional) → Dimensionality reduction
+
 
 
